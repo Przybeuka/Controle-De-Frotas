@@ -1,5 +1,8 @@
 package com.cdf.controledefrota.veiculo;
 
+
+//TESTE
+
 public class Veiculo {
 	private Integer id;
 	private String marca;
