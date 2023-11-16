@@ -1,4 +1,4 @@
-# Controle-De-Frotas
+# Sistema de Gerenciamento de Frotas
 
 Projeto
 Desenvolvimento de um software de gerenciamento de manutenção de frota automotiva. A globalização causou nos tempos atuais uma forte facilidade nos meios logísticos. No Brasil, grande parte dessa movimentação logística é feita através do meio rodoviário. Isto posto, verifica-se a necessidade da gestão de manutenção da frota de veículos de uma grande empresa detentora dos meios. Este projeto tem como objetivo principal gerir a manutenção de uma frota logística, controlando a rodagem e os períodos de necessidade de reparo de veículos de transporte.
